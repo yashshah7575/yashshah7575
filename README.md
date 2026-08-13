@@ -1,4 +1,4 @@
-![Yash Shah — Staff Software Engineer · Distributed Systems · Backend · Platform · Cloud](assets/social-banner.svg)
+![Yash Shah — Staff Software Engineer · Distributed Systems · Backend · Platform · Cloud](assets/social-banner.png)
 
 # Yash Shah
 
