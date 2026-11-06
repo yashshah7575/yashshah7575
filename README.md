@@ -8,19 +8,40 @@ I build intelligent applications, distributed software systems, and financial te
 
 My background includes over 11 years of software engineering experience across enterprise systems, cloud architecture, and investment technology. I hold master's degrees in Finance and Information Technology.
 
-My work increasingly focuses on applied AI, particularly autonomous engineering agents, enterprise knowledge retrieval, and reliable software automation.
+I currently explore AI agents, enterprise knowledge retrieval, and reliable engineering automation through independent projects and technical experimentation.
 
 I also explore financial markets, quantitative research, and the engineering behind investment platforms.
+
+## Featured Open-Source Projects
+
+### [.NET Engineering Agent](https://github.com/yashshah7575/.Net-Developer-Agent)
+
+Repository-aware AI engineering agent using C#, Amazon Bedrock, and Microsoft.Extensions.AI. Explores code generation, controlled tool execution, and build/test validation.
+
+### [Secure Multi-Tenant API](https://github.com/yashshah7575/customer-api)
+
+ASP.NET Core reference architecture demonstrating OAuth 2.0, OpenID Connect, Keycloak integration, authorization policies, and multi-tenant data isolation.
+
+### [Local LLM Inference with .NET](https://github.com/yashshah7575/dotnet-local-llm-chat-llamasharp)
+
+Offline language-model inference using C#, LLamaSharp, and GGUF models.
+
+### [Quantitative Finance Experiments](https://github.com/yashshah7575/quant-tsla-beta-moving-average-strategy)
+
+Educational experiments involving beta estimation, moving-average trading signals, and strategy backtesting.
+
+### [AWS Serverless Infrastructure](https://github.com/yashshah7575/dotnet-aws-lambda-terraform-starter)
+
+Reference implementation for deploying ASP.NET Core APIs using AWS Lambda, API Gateway, and Terraform.
 
 ## Areas of Focus
 
 ### Applied Artificial Intelligence
 
-- AI engineering agents and LLM-powered applications
-- Agent orchestration and Model Context Protocol (MCP)
+- AI agents, LLM applications, and MCP
 - Enterprise knowledge retrieval and RAG
-- Controlled tool execution and automated engineering workflows
-- Evaluation, reliability, and human oversight
+- Controlled tool execution and engineering automation
+- Agent evaluation, reliability, and human oversight
 
 ### Financial Technology
 
@@ -28,49 +49,13 @@ I also explore financial markets, quantitative research, and the engineering beh
 - Quantitative research and algorithmic trading
 - Portfolio analytics and risk management
 - Financial decision-support systems
-- Rule-based investment strategies
 
 ### Cloud-Native Systems
 
-- C#, .NET, and ASP.NET Core
-- AWS and Kubernetes
-- Distributed systems and event-driven architectures
-- REST APIs, microservices, and messaging
-- Terraform, CI/CD, and observability
-
-## Featured Open-Source Projects
-
-### .NET Engineering Agent
-
-[View Repository](https://github.com/yashshah7575/.Net-Developer-Agent)
-
-A repository-aware AI engineering agent using C#, Amazon Bedrock, and Microsoft.Extensions.AI.
-
-Explores planning, source-code modification, controlled tool execution, build/test automation, and validation of implementation results.
-
-### Secure Multi-Tenant API
-
-[View Repository](https://github.com/yashshah7575/customer-api)
-
-An ASP.NET Core reference implementation exploring OAuth 2.0, OpenID Connect, Keycloak integration, authorization policies, and multi-tenant data isolation.
-
-### Local LLM Inference with .NET
-
-[View Repository](https://github.com/yashshah7575/dotnet-local-llm-chat-llamasharp)
-
-A C# application exploring offline language-model inference using LLamaSharp and GGUF models.
-
-### Quantitative Finance Experiments
-
-[View Repository](https://github.com/yashshah7575/quant-tsla-beta-moving-average-strategy)
-
-Educational quantitative finance experiments involving beta estimation, moving-average signals, and strategy backtesting.
-
-### AWS Serverless Infrastructure
-
-[View Repository](https://github.com/yashshah7575/dotnet-aws-lambda-terraform-starter)
-
-A reference implementation for deploying ASP.NET Core APIs with AWS Lambda, API Gateway, and Terraform.
+- C#, .NET, ASP.NET Core, and REST APIs
+- AWS, Kubernetes, Docker, and Terraform
+- Distributed systems and event-driven architecture
+- CI/CD, observability, and operational reliability
 
 ## Research Interests
 
@@ -83,9 +68,9 @@ Agent evaluation, organizational context retrieval, secure tool execution, and m
 Market efficiency, financial machine learning, quantitative strategies, transaction costs, and risk-adjusted performance.
 
 **Cloud Infrastructure for Intelligent Applications**  
-Model deployment, local versus cloud inference, cost optimization, system reliability, and observability.
+Model deployment, local versus cloud inference, cost optimization, reliability, and observability.
 
-Research papers and experimental results will be shared on my personal website as they become available.
+I document my experiments, technical writing, and research interests at [yashshah.ai](https://yashshah.ai).
 
 ## Engineering Philosophy
 
