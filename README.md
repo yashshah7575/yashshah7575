@@ -1,4 +1,4 @@
-![Yash Shah — Applied AI · Financial Technology · Cloud-Native Systems](assets/social-banner.png)
+![Yash Shah — Applied AI · Financial Technology · Cloud-Native Systems](https://github.com/yashshah7575/yashshah7575/raw/e87ada7/assets/social-banner.png)
 
 # Yash Shah
 
